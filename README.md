@@ -1,4 +1,6 @@
-# Nginx container to serve static sites
+# Nginx Static Site Server
+
+Nginx container to serve static sites
 
 <img src="https://janw.me/content/uploads/2016/09/nginx-1024x1024.png" width="20%">
 
